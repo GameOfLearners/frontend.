@@ -1,20 +1,12 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Game of Learners Season 1: Mizizi Project 
+Mizizi is a Swahili name that means "Roots". We decided to use this name because this application provides a platform that analyzes a user's sysmptoms and prescribes locally available remedies and medications first, before recommending the user to a medical professional. 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Medical care is an essential service in all parts of the world. In Kenya accessibility to health care is hampered by various problems. 
+Mizizi is a platform that provides users with up to date and accurate information on their healthcare needs. 
+Features inlcude:
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+*First Aid Section for providing visual guides, for the illiterate users, and textual guides on performing different first aid procedures in case of minor accidents.
+*Finding chemists close to a user's location
+*Storing a user's medical records and providing a medical report that can be shared to medical officers during treatment procedures
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Prototype: https://mizizi-cf0dd.web.app/
